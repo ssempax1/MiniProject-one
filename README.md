@@ -1,7 +1,7 @@
 # MiniProject-one
 Project to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company
 #Tasks for this project
-- Explain the gitFlow (Links to an external site.
+- Explain the gitFlow 
 - Workflow and have a section to define 
 - Give examples of how to use the following Git commands and terminology:
  	1.Repository
