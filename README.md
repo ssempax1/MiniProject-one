@@ -1,5 +1,5 @@
 # Mini Project 1
-##Tasks for this Project:
+## Tasks for this Project:
 - Explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company
 - Explain the gitFlow Workflow
 - Provide definition and examples of how to use the following Git commands and terminology:
