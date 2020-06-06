@@ -1,0 +1,41 @@
+#Examples of  the terms
+A**repository** is a database of all the edits to, and/or historical versions (snapshots) of, your project.
+ 
+**Clone**
+When you create a repository on GitHub for Zwebsite, it exists as a remote repository. 
+You and other collaborators can clone your repository to create a local copy for each individual of thier computer and sync between the locations, and Zwebsite.
+![Here is an illustration;Figure 1] ()
+
+**Forking on github:**
+Scenerio, if you were interested in helping contribute content to Zwebsite private or open source,and is hosted on a GitHub repository.
+You would first fork it. Forking it is basically making a copy of the repository, but with a link back to the original.
+![Here is illustration ; Figure 2]()
+
+**Branch**
+Consider each Working copy a branch, whether in distributed or centralized version control. 
+
+**Commit**
+After you make changes on a working copy, you have to push your changes for others to see on the central repository.
+
+**Merge**
+When you review accept update changes from your working copies into the main/central repository.
+
+**Checkout**
+Command  Git will let you make changes to the branch.
+
+
+**Push**
+Yanges necessary to implement the specific feature and the changes are current to your local repository. 
+The next logical step is to push those changes back up to GitHub/Central repository.
+**Pull **
+You get code from Central repositry to update your local working copy 
+**Remote Add / Remove / Show**
+Remote Add is when you clone of the Git repository on your system
+Remote Remove is you're nolonger tracking back with original
+
+
+**Status**
+This is command  to inspect a repository/show changes in a working tree that haven't been staged 
+**Master Branch** 
+Is the base copy of the code on either local or remote repository, is a simplified git workflow to record history of the project. 
+
