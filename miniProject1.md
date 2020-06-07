@@ -24,6 +24,9 @@
 
 7. Checkout: To change a user's current working branch to another branch. This can also be used to create a new branch.
 
+8. Push: To send committed changes to a remote repository on GitHub so that others may access and view the changes.
+
+
 
 ---
 
