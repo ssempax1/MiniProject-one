@@ -14,6 +14,8 @@
 
 2. Clone: A  copy of a repository that is stored locally on a user’s computer. It is also defined as the act of making the copy.
 
+3. Fork: A personal copy of another user’s repository that is stored on one’s account. It allows a user to make changes to the project without affecting the original repository/project.
+
 
 ---
 
