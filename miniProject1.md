@@ -20,6 +20,9 @@
 
 5. Commit: An individual change to a file or a set of files. When a commit is made, a unique ID is created to keep record of the changes committed as well as who made them and when it was created. They usually contain a brief description of what changes were made as the commit message.
 
+6. Merge: To take the change from one branch (or fork) of a repository and apply them to another. A merge can also be done through a pull request.
+
+
 ---
 
 *View change log [here](P1_CHANGELOG.md)*
