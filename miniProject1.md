@@ -28,6 +28,11 @@
 
 9. Pull: To fetch and merge changes into current branch.
 
+10. Remote Add / Remove / Show:
+    - Remote add: To add a new remote to the repository
+    - Remote remove: To remove a remote. All remote-tracking branches for the remote are removed
+    - Remote show: To provide information about the remote
+
 
 
 ---
