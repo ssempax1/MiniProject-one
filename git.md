@@ -5,9 +5,10 @@ Is a database of all the edits to, and/or historical versions (snapshots) of, yo
  
 ### Clone ###
 When you create a repository on GitHub for Zwebsite, it exists as a remote repository. 
-You and other collaborators can clone your repository to create a local copy,
-for each individual of thier computer and sync between the locations, and Zwebsite/remote repository.
- ![illustration](/cloning.PNG)  
+You and other collaborators can clone your repository to create a local copy.
+And sync between the locations, and Zwebsite/remote repository. <br>
+![illustration](/images/cloning.PNG)
+   
 
 
 ### Forking on github: ###
