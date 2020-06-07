@@ -1,4 +1,4 @@
-# Mini Project 1
+# Project 1
 
 ## Usage of Git, Docker, Automated Testing, and Continuous Integration
 
