@@ -9,7 +9,7 @@ Updated project with terms (CA)
 
 ## v1.0.0 - June 6, 2020
 
-Initial release. (CA)
+Initial release (CA)
 
 **Added:**
 - miniProject1
