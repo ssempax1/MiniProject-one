@@ -2,25 +2,26 @@
 
 ## Usage of Git, Docker, Automated Testing, and Continuous Integration
 
+
 ---
 
 ## GitFlow:
+
 ### Typical workflow when using Git workflow is:
 
 1. git pull (or  git fetch)
 
 2. As many times as you desire (but try to limit it  few times):
 
-* Make local edits on your branch
-* Examine the local edits: git status and git diff 
-* git commit -m "comments"
-* git pull if local master is updated 
-* git push origin master
+    * Make local edits on your branch
+    * Examine the local edits: git status and git diff 
+    * git commit -m "comments"
+    * git pull if local master is updated 
+    * git push origin master
 
 3. git pull master remote
 
 4. git push to master remote
-
 
 ---
 
@@ -55,4 +56,4 @@
 
 ---
 
-*View change log [here](P1_CHANGELOG.md)*
+*View changelog [here](P1_CHANGELOG.md)*
