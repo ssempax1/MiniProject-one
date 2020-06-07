@@ -22,6 +22,8 @@
 
 6. Merge: To take the change from one branch (or fork) of a repository and apply them to another. A merge can also be done through a pull request.
 
+7. Checkout: To change a user's current working branch to another branch. This can also be used to create a new branch.
+
 
 ---
 
