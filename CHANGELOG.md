@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.2 - June 7, 2020
+
+**Added images** 
+
 ## v1.0.1 - June 6, 2020
 
 Updated ReadME (CA)

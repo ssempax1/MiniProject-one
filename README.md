@@ -27,4 +27,16 @@
 
 ---
 
-[Changelog](CHANGELOG.md)
+[Changelog](CHANGELOG.md) 
+ 
+
+## Links ##
+1.Washington.edu- automatic!
+[Washington.edu](https://homes.cs.washington.edu/~mernst/advice/version-control.html#:~:text=Some%20popular%20version%20control%20systems,%2C%20and%20Subversion%20(centralized).&text=In%20centralized%20version%20control%2C%20each,is%20just%20one%20central%20repository.)
+
+2.http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+3.Succesful git branching- automatic!
+[Git Branching](https://nvie.com/posts/a-successful-git-branching-model/)
