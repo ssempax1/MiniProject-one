@@ -26,6 +26,8 @@
 
 8. Push: To send committed changes to a remote repository on GitHub so that others may access and view the changes.
 
+9. Pull: To fetch and merge changes into current branch.
+
 
 
 ---
