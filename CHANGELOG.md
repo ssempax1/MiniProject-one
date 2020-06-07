@@ -2,14 +2,14 @@
 
 ## v1.0.1 - June 6, 2020
 
-Updated ReadME
+Updated ReadME (CA)
 
 **Added:**
 - Change log
 
 ## v1.0.0 - June 6, 2020
 
-Initial release.
+Initial release (IK)
 
 **Added:**
 - ReadME
