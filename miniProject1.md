@@ -2,6 +2,13 @@
 
 ## Usage of Git, Docker, Automated Testing, and Continuous Integration
 
+There are many components in the software development industry that helps build software in a fast manner to increase productivity. Of all major components, they include using Git, Docker, automated testing, and continuous integration.
+
+Git is a very commonly used VCS (Version Control System) that allows users to track changes made to their files while maintaining a history of what have been done. If an error is ever made, users are allowed to go back to specific versions of the file before the error was made. Git makes collaboration much easier by merging the changes make by all users into one branch or source. This ensure that Git is very useful regardless if the user is working as part of a team or individually.
+
+Docker is a tool that uses containers to make it simpler to create, deploy and run applications. It allows developers to build and test their code in any environment to be able to catch bugs early in the application development cycle. By using Docker, it helps streamline the process of development, save time on the builds and allow developers to run tests in parallel. Docker can integrate with version control systems like GitHub as well as Integration tools to create an image that can be added to the Docker registry. This would handle the inconsistencies between the different types of environment.
+
+
 
 ---
 
