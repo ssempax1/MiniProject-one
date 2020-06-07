@@ -33,6 +33,9 @@
     - Remote remove: To remove a remote. All remote-tracking branches for the remote are removed
     - Remote show: To provide information about the remote
 
+11. Status: A visual representation within a pull request that shows whether the developer’s commits meets the conditions set for the repository they are contributing to.
+
+
 
 
 ---
