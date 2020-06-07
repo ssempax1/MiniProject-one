@@ -8,13 +8,17 @@ Git is a very commonly used VCS (Version Control System) that allows users to tr
 
 Docker is a tool that uses containers to make it simpler to create, deploy and run applications. It allows developers to build and test their code in any environment to be able to catch bugs early in the application development cycle. By using Docker, it helps streamline the process of development, save time on the builds and allow developers to run tests in parallel. Docker can integrate with version control systems like GitHub as well as Integration tools to create an image that can be added to the Docker registry. This would handle the inconsistencies between the different types of environment.
 
+Automated testing the best way for developers to increase the effectiveness, efficiency and coverage of their software testing. With manual testing, test engineers strive to catch all defects before the product is released yet they often reappear, even when following the best manual testing processes. An automated testing tool is able to playback pre-recorded actions, check whether the results match the expected behavior and then report the success of failure of the test to the test engineer. Automated testing can be extended to perform tasks that are not possible with manual testing.
 
+Continuous Integration (or CI) is a development practice that requires developers to integrate code into the share repository several times a day. With CI, errors can be detected and located early and easily. Since there is frequent integration occurring, there is less back-tracking needed to discover where something went wrong and developer are allowed to focus more on building the features of the product. Continuous Integration is very cheap compared to not integrating continuously in development.
+
+These features are considered as essential components of successful development projects. The results from helping build software in a secure and fast manner increases the productivity and competitiveness of a company.
 
 ---
 
 ## GitFlow:
 
-### Typical workflow when using Git workflow is:
+### Typical workflow when using GitFlow is:
 
 1. git pull (or  git fetch)
 

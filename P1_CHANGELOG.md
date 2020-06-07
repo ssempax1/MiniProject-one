@@ -1,5 +1,7 @@
 # Project 1 Change Log
 
+## v1.0.2 - June 6, 2020
+
 ## v1.0.1 - June 6, 2020
 
 Updated project with terms (CA)
