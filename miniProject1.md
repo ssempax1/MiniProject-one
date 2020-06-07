@@ -18,6 +18,7 @@
 
 4. Branch: A parallel version of a repository that is contained with the repo but does not affect the primary or master branch. This allows developers to work freely without disrupting the master (or main) version.
 
+5. Commit: An individual change to a file or a set of files. When a commit is made, a unique ID is created to keep record of the changes committed as well as who made them and when it was created. They usually contain a brief description of what changes were made as the commit message.
 
 ---
 
