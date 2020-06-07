@@ -35,8 +35,7 @@
 
 11. Status: A visual representation within a pull request that shows whether the developer’s commits meets the conditions set for the repository they are contributing to.
 
-
-
+12. Master Branch: The default development branch automatically created when a git repository is created.
 
 ---
 
