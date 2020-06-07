@@ -7,7 +7,7 @@ Is a database of all the edits to, and/or historical versions (snapshots) of, yo
 When you create a repository on GitHub for Zwebsite, it exists as a remote repository. 
 You and other collaborators can clone your repository to create a local copy,
 for each individual of thier computer and sync between the locations, and Zwebsite/remote repository.
-![Here is an illustration](/images/cloning.PNG)
+![Here is an illustration](\images/cloning.PNG)
 
 
 ### Forking on github: ###
@@ -16,7 +16,7 @@ and is hosted on a GitHub repository.
 You would first fork it.
 Forking it is basically making a copy of the repository,
 but with a link back to the original.
-![Here is an illustration](/images/version1.PNG)
+![Here is an illustration](\images/version1.PNG)
 
 
 ### Branch ###
