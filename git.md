@@ -1,7 +1,8 @@
 # Examples of  the terms
 
 ### A repository ###
-Is a database of all the edits to, and/or historical versions (snapshots) of, your project.
+Is a database of all the edits to, and/or historical versions (snapshots) of, your project.<br>
+![illustration](/images/RemoteRepo.png)
  
 ### Clone ###
 When you create a repository on GitHub for Zwebsite, it exists as a remote repository. 
