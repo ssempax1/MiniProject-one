@@ -40,8 +40,8 @@
 ---
 
 ## Table of contents ##
-[Project 1](miniProject1.md). <br>
-[Term Examples & illustrations](git.md).
+[Project 1](miniProject1.md) <br>
+[Term Examples & illustrations](git.md)
 
 ---
 
