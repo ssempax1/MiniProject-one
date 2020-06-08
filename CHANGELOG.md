@@ -1,5 +1,11 @@
 # Changelog
 
+
+## v.1.0.5 - June 7, 2020
+
+Added Images to images Folder
+
+
 ## v.1.0.4 - June 7, 2020
 
 Updated Sources Layout (CA)
