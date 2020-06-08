@@ -1,5 +1,9 @@
 # Project 1 Changelog
 
+## v1.0.3 - June 7, 2020
+
+Added link to term examples (CA)
+
 ## v1.0.2 - June 7, 2020
 
 **Added:**
