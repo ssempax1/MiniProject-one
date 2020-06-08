@@ -41,7 +41,7 @@
 
 ## Pages ##
 [Project 1](miniProject1.md) <br>
-[Term Examples & illustrations](git.md)
+[Term Examples & Illustrations](git.md)
 
 ---
 
