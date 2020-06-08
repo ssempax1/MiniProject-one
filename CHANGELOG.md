@@ -1,5 +1,9 @@
 # Changelog
 
+## v.1.0.4 - June 7, 2020
+
+Updated Sources Layout (CA)
+
 ## v1.0.3 - June 7, 2020
 
 Updated ReadMe with Table of Contents (IK)
