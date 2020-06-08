@@ -27,9 +27,6 @@
 
 ---
 
-[Changelog](CHANGELOG.md) 
- 
-
 ## Sources ##
 1.Washington.edu
 [Washington.edu](https://homes.cs.washington.edu/~mernst/advice/version-control.html#:~:text=Some%20popular%20version%20control%20systems,%2C%20and%20Subversion%20(centralized).&text=In%20centralized%20version%20control%2C%20each,is%20just%20one%20central%20repository.)
@@ -40,7 +37,16 @@
 3.Succesful git branching
 [Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) 
 
+---
+
 ## Table of contents ##
-[Definitions](miniProject1.md). <br>
-[Examples & illustrations](git.md).
+[Project 1](miniProject1.md). <br>
+[Term Examples & illustrations](git.md).
+
+---
+
+[Changelog](CHANGELOG.md) 
+ 
+
+
 
