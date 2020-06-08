@@ -3,7 +3,7 @@
 
 ## v.1.0.5 - June 7, 2020
 
-Added Images to images Folder
+Added Images to images Folder(IK)
 
 
 ## v.1.0.4 - June 7, 2020
