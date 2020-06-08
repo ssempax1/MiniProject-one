@@ -65,6 +65,8 @@ These features are considered as essential components of successful development 
 
 12. **Master Branch:** The default development branch automatically created when a git repository is created.
 
+**View EXAMPLES [here](git.md)**
+
 ---
 
-*View changelog [here](P1_CHANGELOG.md)*
+*View [changelog](P1_CHANGELOG.md)*
