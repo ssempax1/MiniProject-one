@@ -45,7 +45,8 @@ You get code from Central repository to update your local working copy
 
  
 ### Remote Add / Remove / Show ###
-**Remote Add** is when you clone of the Git repository on your system.
+**Remote Add** is when you clone of the Git repository on your system. <br>
+![illustration](/images/remoteAdd.PNG)
 
 **Remote Remove** is you're nolonger tracking back with original
 
